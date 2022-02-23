@@ -14,12 +14,9 @@
 <a href="https://instagram.com/ravindo_fdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindo_fdo" height="30" width="40" /></a>
 </p>
 
+
 <h1></h1>
-<h1 align = "center">
-        <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
-        <br>
-        🛠️ Gadgets I prefer ⚙️
-</h1>
+
 <h3 align = "center">
        👩‍💻programming language
 </h3>
@@ -30,18 +27,17 @@
         <img alt="HTML" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img alt="CSS" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img alt="JAVASCRIPT" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-        <img alt="KOTLIN" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+
         <img alt="PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
         <img alt="DART" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
         
 </p>
-
-
 <h3 align = "center">
        🚀 Frameworks
 </h3>
 <p align = "center">
-
+        <img alt="SPRING" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
         <img alt="FLUTTER" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
         <img alt="NODE JS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -60,6 +56,7 @@
         <img alt="COLAB" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
         <img alt="ECLIPSE" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
         <img alt="PYCHARM" src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+        <img alt="REPLIT" src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
         <img alt="RSTUDIO" src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
         <img alt="VISUAL STUDIO " src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
         <img alt="GOOGLE CHROME" src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
@@ -70,6 +67,14 @@
         
 </p>
 
+<h3 align = "center">
+       💻 OS 
+</h3>
+<p align = "center">
+        <img alt="ANDROID" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+        <img alt="WINDOWS" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img alt="WINDOWS XP" src = "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
+</p>
 
 <h3 align = "center">
        💻 Terminal  
@@ -88,12 +93,21 @@
 </p>
 
 <h3 align = "center">
+       ⚙️ ORM
+</h3>
+<p align = "center">
+        <img alt="HIBERNATE" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+</p>
+
+<h3 align = "center">
        🤖 Artificial Intelligence
 </h3>
 <p align = "center">
         <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 <h1></h1>
+
+
 
 
 
