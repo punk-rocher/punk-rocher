@@ -13,10 +13,12 @@
 <a href="https://linkedin.com/in/ravindu-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/ravindo_fdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindo_fdo" height="30" width="40" /></a>
 </p>
-
 <h1></h1>
-<<h1></h1>
-
+<h1 align = "center">
+        <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
+        <br>
+        🛠️ Gadgets I prefer ⚙️
+</h1>
 <h3 align = "center">
        👩‍💻programming language
 </h3>
@@ -27,6 +29,7 @@
         <img alt="HTML" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img alt="CSS" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img alt="JAVASCRIPT" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img alt="KOTLIN" src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
         <img alt="PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
         <img alt="DART" src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
         
