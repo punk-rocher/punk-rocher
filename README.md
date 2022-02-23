@@ -77,14 +77,6 @@
 <p align = "center">
         <img alt="MYSQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
-<h3 align = "center">
-       ⚙️ ORM
-</h3>
-<p align = "center">
-        <img alt="HIBERNATE" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-</p>
-
 <h3 align = "center">
        🤖 Artificial Intelligence
 </h3>
@@ -92,9 +84,6 @@
         <img alt="TENSORFLOW" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 <h1></h1>
-
-
-
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=punk-rocher&show_icons=true&locale=en&layout=compact" alt="punk-rocher" /></p>
