@@ -15,11 +15,6 @@
 </p>
 
 <h1></h1>
-<h1 align = "center">
-        <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
-        <br>
-        🛠️ Gadgets I prefer ⚙️
-</h1>
 <h3 align = "center">
        👩‍💻programming language
 </h3>
