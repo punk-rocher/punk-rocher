@@ -1,19 +1,18 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ravindu Fernando</h1>
 <h3 align="center">I'm from Sri-lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punk-rocher&label=Profile%20views&color=0e75b6&style=flat" alt="punk-rocher" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ravindufernan16" target="blank"><img src="https://img.shields.io/twitter/follow/@ravindufernan16?logo=twitter&style=for-the-badge" alt="@ravindufernan16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **punkrocher00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ravindufernan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ravindufernan16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravindu fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu fernando" height="30" width="40" /></a>
-<a href="https://fb.com/ràvindú fèrñañdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ràvindú fèrñañdo" height="30" width="40" /></a>
-<a href="https://instagram.com/ravindo_fdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindo_fdo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravindu-fernando-46928a1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravindu-fernando-46928a1b9/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009022656004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009022656004" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ravindo_fdo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ravindo_fdo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
