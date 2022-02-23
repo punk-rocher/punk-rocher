@@ -35,8 +35,6 @@
        🚀 Frameworks
 </h3>
 <p align = "center">
-        <img alt="SPRING" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-        <img alt="SPRING BOOT" src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
         <img alt="FLUTTER" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
         <img alt="NODE JS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img alt="NPM" src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -55,7 +53,6 @@
         <img alt="COLAB" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
         <img alt="ECLIPSE" src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
         <img alt="PYCHARM" src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-        <img alt="REPLIT" src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
         <img alt="RSTUDIO" src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
         <img alt="VISUAL STUDIO " src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
         <img alt="GOOGLE CHROME" src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
@@ -65,16 +62,6 @@
         <img alt="PHOTOSHOP" src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
         
 </p>
-
-<h3 align = "center">
-       💻 OS 
-</h3>
-<p align = "center">
-        <img alt="ANDROID" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-        <img alt="WINDOWS" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-        <img alt="WINDOWS XP" src = "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
-</p>
-
 <h3 align = "center">
        💻 Terminal  
 </h3>
