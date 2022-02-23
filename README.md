@@ -14,7 +14,7 @@
 <a href="https://instagram.com/ravindo_fdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindo_fdo" height="30" width="40" /></a>
 </p>
 
-[00:16, 24/02/2022] IIT.Pramuditha: <h1></h1>
+<h1></h1>
 <h1 align = "center">
         <img src="https://media.giphy.com/media/jUEozmWPd5zRwFmfY5/giphy.gif" width="90">
         <br>
