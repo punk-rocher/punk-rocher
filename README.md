@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Fernando</h1>
-<h4 align="left">I'm from Sri-Lanka. I have been studying software engineering since 2020 as a student at University of Westminster Collab with Informatics Institute of Technology. I have a good knowledge of Python Programming, Web Development & Data Base Management and a fair knowledge of Java Programming.</h4>
+<h4 align="left">I'm from Sri-Lanka. I have been studying software engineering since 2020 as a student at University of Westminster Collab with Informatics Institute of Technology.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punk-rocher&label=Profile%20views&color=0e75b6&style=flat" alt="punk-rocher" /> </p>
 
