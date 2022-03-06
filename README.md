@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punk-rocher&label=Profile%20views&color=0e75b6&style=flat" alt="punk-rocher" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ravindufernan16" target="blank"><img src="https://img.shields.io/twitter/follow/@ravindufernan16?logo=twitter&style=for-the-badge" alt="@ravindufernan16" /></a> </p>
-
 - 📫 How to reach me **punkrocher00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
