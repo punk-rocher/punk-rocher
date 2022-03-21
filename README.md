@@ -82,9 +82,6 @@
 </p>
 <h1></h1>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=punk-rocher&show_icons=true&locale=en&layout=compact" alt="punk-rocher" /></p>
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=punk-rocher&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=punk-rocher&theme=blueberry&hide_border=true)<br/>
