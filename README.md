@@ -82,7 +82,10 @@
 </p>
 <h1></h1>
 
-# 📊GitHub Stats :
+<h3 align = "center">
+       👩‍💻 Git Stats
+</h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=punk-rocher&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=punk-rocher&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=punk-rocher&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
